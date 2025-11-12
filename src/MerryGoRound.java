@@ -167,8 +167,9 @@ public class MerryGoRound {
      */
     public void spinning(){
         for (int i = 0; i < duration; i++) {
-            System.out.println("weee");
+            System.out.print("weee ");
         }
+        System.out.println();
     }
     /*
      * Cleans the Merry-Go-Round by setting isClean to true and printing a message updating the cleaning process to the user
