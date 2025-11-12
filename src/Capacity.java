@@ -14,7 +14,12 @@ public class Capacity {
     public Capacity(int numHorses) {
         this.numHorses = numHorses;
     }
-
+    /*
+     * 
+     */
+    public Capacity(){
+        this.numHorses = 25;
+    }
     /**
      * Gets the number of horses.
      * @return the number of horses
