@@ -44,7 +44,7 @@ public class MerryGoRound {
         this.spinSpeed = spinSpeed;
         this.horseSpeed = horseSpeed;
         this.isClean = true;
-        this.capacity1 = new Capacity(100);
+        this.capacity1 = new Capacity(50);
     }
 
     /**
