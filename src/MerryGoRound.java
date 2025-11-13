@@ -3,7 +3,7 @@
  * duration, spin speed, horse speed, cleanliness, and capacity.
  * @author Cathy Vo
  * @collaborators CoPILOT
- * @version 11/12/2025
+ * @version 11/13/2025
  */
 public class MerryGoRound {
     private int lightBrightness; // Light brightness level
