@@ -17,8 +17,9 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-Merry-Go-Round
+## Merry-Go-Round
+The simulation creates a simulation of riding a merry-go-round. The user can expect to be able to change the theme, light colors, spin on the ride, and clean the ride. The MerryGoRound class creates a merry-go-round object that allows for customizations to spin speed, horse speed, light brightness, is clean, duration, and capacity of the merry-go-round. This is associated with a secondary class named Capacity, allowing users to determine the number of horses on the ride.
 
-## Class Diagram
+Class Diagram
 * https://drive.google.com/file/d/1Z1hDnTyf_qDRgF5U9NyJwfEXPO3uj8mW/view?usp=sharing
 
